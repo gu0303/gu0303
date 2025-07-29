@@ -9,19 +9,11 @@ Here are some ideas to get you started:-->
 - 🌱 Estudando Docker, PHP e JavaScript.
 - 📫 Email: ga.araujo0303@gmail.com
 
-<!--<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gu0303&show_icons=true&theme=onedark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gu0303&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=gu0303&show_icons=true" />
-</picture>
+<details>
+<summary>:eyes: Show example</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu0303&layout=compact) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=transparent)
 
+</details>
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gu0303\&show_icons=true\&theme=onedark#gh-dark-mode-only)](https://github.com/gu0303/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
