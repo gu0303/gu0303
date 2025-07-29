@@ -9,10 +9,12 @@ Here are some ideas to get you started:-->
 - 🌱 Estudando Docker, PHP e JavaScript.
 - 📫 Email: ga.araujo0303@gmail.com
 
+##
+
 <details>
 <summary>Linguagens mais usadas</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu0303&langs_count=8)
 
 </details>
 
