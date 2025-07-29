@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 <details>
 <summary>Linguagens mais usadas</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8\&theme=onedark#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu0303&langs_count=8\&theme=onedark#gh-dark-mode-only)
 
 </details>
 
