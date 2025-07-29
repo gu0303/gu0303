@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 - 🌱 Estudando Docker, PHP e JavaScript.
 - 📫 Email: ga.araujo0303@gmail.com
 
-<picture>
+<!--<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=gu0303&show_icons=true&theme=onedark"
     media="(prefers-color-scheme: dark)"
@@ -21,4 +21,7 @@ Here are some ideas to get you started:-->
   <img src="https://github-readme-stats.vercel.app/api?username=gu0303&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu0303&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu0303&layout=compact) -->
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
