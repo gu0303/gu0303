@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 <details>
 <summary>Linguagens mais usadas</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu0303&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 </details>
 
