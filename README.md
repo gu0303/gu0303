@@ -10,10 +10,10 @@ Here are some ideas to get you started:-->
 - 📫 Email: ga.araujo0303@gmail.com
 
 <details>
-<summary>:eyes: Show example</summary>
+<summary>Principais linguagens</summary>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gu0303\&show_icons=true\&theme=onedark#gh-dark-mode-only)](https://github.com/gu0303/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+
 
 </details>
 
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gu0303\&show_icons=true\&theme=onedark#gh-dark-mode-only)](https://github.com/gu0303/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
