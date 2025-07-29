@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=gu0303&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: tokyonight)"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=gu0303&show_icons=true"
