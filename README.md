@@ -20,16 +20,3 @@ Here are some ideas to get you started:-->
   />
   <img src="https://github-readme-stats.vercel.app/api?username=gu0303&show_icons=true" />
 </picture>
-
-- [Top Languages Card](#top-languages-card)
-    - [Usage](#usage-2)
-    - [Language stats algorithm](#language-stats-algorithm)
-    - [Exclude individual repositories](#exclude-individual-repositories)
-    - [Hide individual languages](#hide-individual-languages)
-    - [Show more languages](#show-more-languages)
-    - [Compact Language Card Layout](#compact-language-card-layout)
-    - [Donut Chart Language Card Layout](#donut-chart-language-card-layout)
-    - [Donut Vertical Chart Language Card Layout](#donut-vertical-chart-language-card-layout)
-    - [Pie Chart Language Card Layout](#pie-chart-language-card-layout)
-    - [Hide Progress Bars](#hide-progress-bars)
-    - [Demo](#demo-2)
