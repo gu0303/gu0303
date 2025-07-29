@@ -12,8 +12,8 @@ Here are some ideas to get you started:-->
 <details>
 <summary>:eyes: Show example</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=transparent)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gu0303\&show_icons=true\&theme=onedark#gh-dark-mode-only)](https://github.com/gu0303/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
 </details>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gu0303\&show_icons=true\&theme=onedark#gh-dark-mode-only)](https://github.com/gu0303/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+
 
