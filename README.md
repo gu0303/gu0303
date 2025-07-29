@@ -10,9 +10,9 @@ Here are some ideas to get you started:-->
 - 📫 Email: ga.araujo0303@gmail.com
 
 <details>
-<summary>Principais linguagens</summary>
+<summary>Linguagens mais usadas</summary>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gu0303&layout=compact)
 
 </details>
 
