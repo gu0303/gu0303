@@ -1,6 +1,6 @@
 ## Olá! eu sou Gustavo Araújo 👋
 
-- 🔭 Atualmente trabalho com Front-end e Back-end.
+- 🔭 Atualmente trabalho como FullStack.
 - 🌱 Estudando Docker, PHP e JavaScript.
 - 📫 Email: ga.araujo0303@gmail.com
 
