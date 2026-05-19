@@ -1,7 +1,7 @@
 ## Olá! eu sou Gustavo Araújo 👋
 
 - 🔭 Atualmente trabalho como FullStack.
-- 🌱 Estudando Docker, PHP e JavaScript.
+- 🌱 Estudando Docker, PHP, JavaScript e Lua.
 - 📫 Email: ga.araujo0303@gmail.com
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="20" style="vertical-align: middle; margin-right: 6px;" alt="Arch Linux Logo"/> I use Arch btw
 
