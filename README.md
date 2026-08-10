@@ -10,7 +10,7 @@
 
 
 ##
-| <img src="https://github-readme-stats-six-iota-11.vercel.app/api/top-langs/?username=gu0303&layout=compact&theme=onedark" width="350"/> | <img src="https://github-readme-stats-six-iota-11.vercel.app/api?username=gu0303&show_icons=true&theme=onedark" width="435"/> |
+| <img src="https://github-readme-stats-six-iota-11.vercel.app/api/top-langs/?username=gu0303&layout=compact&theme=onedark" width="300"/> | <img src="https://github-readme-stats-six-iota-11.vercel.app/api?username=gu0303&show_icons=true&theme=onedark" width="435"/> |
 |---|---|
 
 
